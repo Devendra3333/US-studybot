@@ -1,0 +1,7 @@
+streamlit
+langchain
+openai
+python-dotenv
+pandasql
+openpyxl
+langchain_experimental

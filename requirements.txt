@@ -5,3 +5,9 @@ python-dotenv
 pandasql
 openpyxl
 langchain_experimental
+tabulate
+playwright
+beautifulsoup4
+langchain_text_splitters
+apify-client
+chromadb

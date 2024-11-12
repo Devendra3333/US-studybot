@@ -14,4 +14,5 @@ def main():
             st.warning("Please enter something.")
 
 if __name__ == "__main__":
+    print("UI Page")
     main()
